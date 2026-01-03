@@ -6,3 +6,5 @@ A Personal repository for learning and practicing**C Programming**💻
 -leapyear.c – Program to check if a year is a leap year.
 
 -swaping.c – Code for swapping two numbers (using third variable).
+
+-The program uses a switch-case statement to determine which operation to perform based on the operator.
