@@ -20,3 +20,6 @@ A Personal repository for learning and practicing**C Programming**💻
 - Linear Search.c - Binary search is a highly efficient "divide and conquer" algorithm used in C to find the position of a target value within a sorted array.
 
 - delete_element_from_array.c - This shifts elements left from `pos` and reduces array size `n`.
+
+- Array inserter.c - The *Array Inserter* program is used to insert a new element into an existing array at a specified position, shifting the other elements to make space for it.
+  
