@@ -24,4 +24,6 @@ A Personal repository for learning and practicing**C Programming**💻
 - Array inserter.c - The *Array Inserter* program is used to insert a new element into an existing array at a specified position, shifting the other elements to make space for it.
 
 - Student_grade_calculator.c - The code *calculates* the sum of input marks, computes their percentage, and *assigns* a grade using `if‑else` conditions.
+
+- Perfect_num.c - The code checks whether a number is perfect or not. 
   
