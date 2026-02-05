@@ -25,5 +25,7 @@ A Personal repository for learning and practicing**C Programming**💻
 
 - Student_grade_calculator.c - The code *calculates* the sum of input marks, computes their percentage, and *assigns* a grade using `if‑else` conditions.
 
-- Perfect_num.c - The code checks whether a number is perfect or not. 
+- Perfect_num.c - The code checks whether a number is perfect or not.
+
+- Addmatrix.c  - The code adds two matrices *a* and *b* of the same dimensions by summing corresponding elements and storing the result in matrix *c*, then prints the resultant matrix.
   
