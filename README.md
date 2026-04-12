@@ -27,5 +27,5 @@ A Personal repository for learning and practicing**C Programming**💻
 
 - Perfect_num.c - The code checks whether a number is perfect or not.
 
-- Addmatrix.c  - The code adds two matrices *a* and *b* of the same dimensions by summing corresponding elements and storing the result in matrix *c*, then prints the resultant matrix.
+- Add matrix.c  - The code adds two matrices *a* and *b* of the same dimensions by summing corresponding elements and storing the result in matrix *c*, then prints the resultant matrix.
   
