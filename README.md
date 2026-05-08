@@ -1,212 +1,189 @@
-Learning-C 🚀
+<div align="center">
 
-A beginner-friendly collection of C programming programs and concepts.
-This repository contains basic to intermediate C programs that helped me learn programming fundamentals, logic building, functions, arrays, recursion, file handling, and more.
+# 🚀 Learning-C
+### A Beginner Friendly C Programming Repository
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Learning+C+Programming;Beginner+Friendly+Programs;Practice+%2B+Logic+Building;Functions+%7C+Arrays+%7C+Recursion" />
 
----
-
-📌 About
-
-This repository is created to practice and improve C programming skills by implementing different programs and concepts step by step.
-
-It includes:
-
-Basic C programs
-
-Number-based programs
-
-Array operations
-
-Functions
-
-Recursion
-
-Searching & Sorting
-
-File handling
-
-Pattern programs
-
-
+</div>
 
 ---
 
-📂 Programs Included
+## 📖 About The Repository
 
-🔢 Number Programs
+✨ *Learning-C* is a collection of C programming programs created while learning and practicing programming fundamentals.
 
-Armstrong Number
+This repository contains:
+- 🔢 Number Programs
+- 📊 Array Programs
+- 🔁 Functions
+- 🔄 Recursion
+- 📁 File Handling
+- 🎨 Pattern Programs
+- 🧮 Mini Logic-Based Programs
 
-Palindrome Number
-
-Perfect Number
-
-Odd or Even
-
-Sum of Digits
-
-Leap Year
-
-
-📊 Array Programs
-
-Array Insertion
-
-Delete Element from Array
-
-Matrix Addition
-
-Matrix Transpose
-
-Sorting Array
-
-Linear Search
-
-
-🔁 Function Programs
-
-Swap using Function
-
-Fibonacci using Function
-
-Factorial using Function
-
-
-🔄 Recursion Programs
-
-Fibonacci using Recursion
-
-factorial using recursion
-
-sum of N numbers using recursion
-
-calculate GCD using recursion
-
-
-📁 File Handling
-
-Read Mode
-
-Write Mode
-
-
-🎨 Pattern Programs
-
-Number Pattern Programs
-
-
-🧮 Other Programs
-
-Student Grade Calculator
-
-Electricity Bill Calculator
-
-Arithmetic Operations
-
-
+Perfect for:
+- 🌱 Beginners in C Programming
+- 💻 Students practicing coding
+- 🧠 Logic building practice
+- 🚀 Daily coding consistency
 
 ---
 
-🛠️ Technologies Used
+# 📂 Programs Collection
 
-C Programming Language
-
-GCC Compiler
-
-Git & GitHub
-
-
+## 🔢 Number Based Programs
+| Program | Description |
+|---|---|
+| Armstrong.c | Check Armstrong Number |
+| Palindrome.c | Check Palindrome Number |
+| Perfect_num.c | Check Perfect Number |
+| odd_even.c | Odd or Even Checker |
+| sumdigit.c | Sum of Digits |
+| leapyear.c | Leap Year Checker |
 
 ---
 
-🚀 How to Run
+## 📊 Array & Matrix Programs
+| Program | Description |
+|---|---|
+| Array Inserter.c | Insert Elements in Array |
+| delete_element_from_array.c | Delete Array Element |
+| addmatrix.c | Matrix Addition |
+| Matrix.c | Matrix Transpose |
+| sort_function.c | Array Sorting |
+| Linear Search.c | Linear Search |
 
-1. Clone the repository
+---
 
+## 🔁 Function Programs
+| Program | Description |
+|---|---|
+| factorial_function.c | Factorial using Function |
+| fibonacci_usingfunction.c | Fibonacci using Function |
+| swap_function.c | Swap using Function |
 
+---
 
+## 🔄 Recursion Programs
+| Program | Description |
+|---|---|
+| fibonacci_usingrecursion.c | Fibonacci Series using Recursion |
+| factorial_recursion.c | Factorial using Recursion |
+| sum_of_n_recursion.c | Sum of N Numbers using Recursion |
+| gcd_recursion.c | GCD using Recursion |
+---
+
+## 📁 File Handling Programs
+| Program | Description |
+|---|---|
+| readmode.c | Read File Example |
+| writemode.c | Write File Example |
+
+---
+
+## 🎨 Pattern Programs
+| Program | Description |
+|---|---|
+| Number_Pattern.c | Number Pattern Printing |
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/Compiler-GCC-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-GitHub-white?style=for-the-badge&logo=github">
+</p>
+
+---
+
+# 🚀 Getting Started
+
+## 📥 Clone Repository
+
+```bash
 git clone https://github.com/Codectrix-0/Learning-C.git
+```
 
-2. Open the folder
+## 📂 Open Folder
 
-
-
+```bash
 cd Learning-C
+```
 
-3. Compile the program
+## ⚙️ Compile Program
 
-
-
+```bash
 gcc filename.c -o output
+```
 
-4. Run the program
+## ▶️ Run Program
 
-
-
+```bash
 ./output
-
-
----
-
-🎯 Purpose of this Repository
-
-Practice C programming
-
-Improve problem-solving skills
-
-Learn programming fundamentals
-
-Build consistency in coding
-
-
+```
 
 ---
 
-📈 Future Improvements
+# 🎯 Goals of This Repository
 
-Add more DSA programs
-
-Add comments in every code
-
-Add mini projects in C
-
-Improve program optimization
-
-
+✅ Improve C Programming Skills  
+✅ Practice Problem Solving  
+✅ Learn Programming Fundamentals  
+✅ Build Coding Consistency  
+✅ Prepare for DSA & Development
 
 ---
 
-🤝 Contributions
+# 📈 Future Plans
 
-Suggestions and improvements are always welcome!
-
-If you'd like to contribute:
-
-1. Fork the repository
-
-
-2. Create a new branch
-
-
-3. Commit your changes
-
-
-4. Open a pull request
-
-
-
+- 🔥 Add More DSA Programs
+- 🧠 Add Advanced C Concepts
+- 💬 Add Proper Comments in Code
+- 🚀 Create Mini Projects in C
+- 📚 Add Notes for Beginners
 
 ---
 
-⭐ Support
+# 🤝 Contribution
 
-If you found this repository useful, consider giving it a ⭐ on GitHub!
+Contributions are welcome!
 
+If you want to improve this repository:
+
+1. Fork the Repository
+2. Create a New Branch
+3. Make Changes
+4. Commit Changes
+5. Create Pull Request
 
 ---
 
-👩‍💻 Author
+# ⭐ Support
 
-Divya Mer
-First-year student passionate about programming and open source 🚀
+If you found this repository helpful:
+
+🌟 Give it a star on GitHub  
+🍴 Fork the repository  
+📢 Share with others
+
+---
+
+<div align="center">
+
+## 👩‍💻 Author
+
+### Divya Mer
+
+💙 First-Year Student  
+🚀 Learning Programming & Open Source  
+🌱 Passionate About Coding
+
+---
+
+### ✨ Happy Coding ✨
+
+</div>
+
