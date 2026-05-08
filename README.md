@@ -77,6 +77,12 @@ Factorial using Function
 
 Fibonacci using Recursion
 
+factorial using recursion
+
+sum of N numbers using recursion
+
+calculate GCD using recursion
+
 
 📁 File Handling
 
