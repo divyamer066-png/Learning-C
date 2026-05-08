@@ -1,31 +1,206 @@
-# Learning-C🚀
-A Personal repository for learning and practicing**C Programming**💻
+Learning-C 🚀
 
-##📁Files
+A beginner-friendly collection of C programming programs and concepts.
+This repository contains basic to intermediate C programs that helped me learn programming fundamentals, logic building, functions, arrays, recursion, file handling, and more.
 
-- leapyear.c – Program to check if a year is a leap year.
 
-- swaping.c – Code for swapping two numbers (using third variable).
+---
 
-- arthematic.c - The program uses a switch-case statement to determine which operation to perform based on the operator.
+📌 About
 
-- Matrix.c -  The code is a C program that transposes a 3x3 matrix, taking user input for the original matrix and printing the transposed result.
+This repository is created to practice and improve C programming skills by implementing different programs and concepts step by step.
 
-- Armstrong.c - A simple program that checks if a given number is an Armstrong number or not .
+It includes:
 
-- Palindrome.c - Palindrome Checker: Checks if a string/number is same forward & backward.
+Basic C programs
 
-- Fibonacci series.c - Fibonacci series is a sequence where each number is the sum of the two preceding ones, typically starting with 0 and 1.
+Number-based programs
 
-- Linear Search.c - Binary search is a highly efficient "divide and conquer" algorithm used in C to find the position of a target value within a sorted array.
+Array operations
 
-- delete_element_from_array.c - This shifts elements left from `pos` and reduces array size `n`.
+Functions
 
-- Array inserter.c - The *Array Inserter* program is used to insert a new element into an existing array at a specified position, shifting the other elements to make space for it.
+Recursion
 
-- Student_grade_calculator.c - The code *calculates* the sum of input marks, computes their percentage, and *assigns* a grade using `if‑else` conditions.
+Searching & Sorting
 
-- Perfect_num.c - The code checks whether a number is perfect or not.
+File handling
 
-- Add matrix.c  - The code adds two matrices *a* and *b* of the same dimensions by summing corresponding elements and storing the result in matrix *c*, then prints the resultant matrix.
-  
+Pattern programs
+
+
+
+---
+
+📂 Programs Included
+
+🔢 Number Programs
+
+Armstrong Number
+
+Palindrome Number
+
+Perfect Number
+
+Odd or Even
+
+Sum of Digits
+
+Leap Year
+
+
+📊 Array Programs
+
+Array Insertion
+
+Delete Element from Array
+
+Matrix Addition
+
+Matrix Transpose
+
+Sorting Array
+
+Linear Search
+
+
+🔁 Function Programs
+
+Swap using Function
+
+Fibonacci using Function
+
+Factorial using Function
+
+
+🔄 Recursion Programs
+
+Fibonacci using Recursion
+
+
+📁 File Handling
+
+Read Mode
+
+Write Mode
+
+
+🎨 Pattern Programs
+
+Number Pattern Programs
+
+
+🧮 Other Programs
+
+Student Grade Calculator
+
+Electricity Bill Calculator
+
+Arithmetic Operations
+
+
+
+---
+
+🛠️ Technologies Used
+
+C Programming Language
+
+GCC Compiler
+
+Git & GitHub
+
+
+
+---
+
+🚀 How to Run
+
+1. Clone the repository
+
+
+
+git clone https://github.com/Codectrix-0/Learning-C.git
+
+2. Open the folder
+
+
+
+cd Learning-C
+
+3. Compile the program
+
+
+
+gcc filename.c -o output
+
+4. Run the program
+
+
+
+./output
+
+
+---
+
+🎯 Purpose of this Repository
+
+Practice C programming
+
+Improve problem-solving skills
+
+Learn programming fundamentals
+
+Build consistency in coding
+
+
+
+---
+
+📈 Future Improvements
+
+Add more DSA programs
+
+Add comments in every code
+
+Add mini projects in C
+
+Improve program optimization
+
+
+
+---
+
+🤝 Contributions
+
+Suggestions and improvements are always welcome!
+
+If you'd like to contribute:
+
+1. Fork the repository
+
+
+2. Create a new branch
+
+
+3. Commit your changes
+
+
+4. Open a pull request
+
+
+
+
+---
+
+⭐ Support
+
+If you found this repository useful, consider giving it a ⭐ on GitHub!
+
+
+---
+
+👩‍💻 Author
+
+Divya Mer
+First-year student passionate about programming and open source 🚀
