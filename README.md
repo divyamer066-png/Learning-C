@@ -173,13 +173,10 @@ If you found this repository helpful:
 
 <div align="center">
 
-## 👩‍💻 Author
 
-### Divya Mer
-
-💙 First-Year Student  
-🚀 Learning Programming & Open Source  
-🌱 Passionate About Coding
+First-Year engeneering Student  
+Learning Programming & Open Source  
+Passionate About Coding
 
 ---
 
